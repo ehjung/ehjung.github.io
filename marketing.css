@@ -78,10 +78,11 @@ label {
 }
 
 a.pure-button-primary {
-    background: white;
-    color: #1f8dd6;
+    background: #1F8DD6;
+    color: white;
     border-radius: 5px;
     font-size: 120%;
+    margin-right: 0;
 }
 
 
